@@ -38,7 +38,7 @@ my skills and document everything here.
 
 | Project | Description | Status |
 |---|---|---|
-| SIEM Home Lab | Threat detection with Wazuh/Splunk | In Progress |
+| SIEM Home Lab | Threat detection with Wazuh | [Live](https://github.com/ikennanworgu/siem-home-lab) |
 
 | Linux Hardening | CIS benchmark hardening script | In Progress |
 
