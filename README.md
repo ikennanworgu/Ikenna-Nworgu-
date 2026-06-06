@@ -42,7 +42,8 @@ my skills and document everything here.
 
 | Linux Hardening | CIS benchmark hardening script | [Live](https://github.com/ikennanworgu/linux-hardening) |
 
-| Wireshark Analysis | PCAP traffic analysis writeups | Planned |
+| Wireshark Analysis | PCAP traffic analysis writeups | [Live](https://github.com/ikennanworgu/wireshark-traffic-analysis) |
+
 
 | Phishing Detection | URL and email header analysis | Planned |
 
