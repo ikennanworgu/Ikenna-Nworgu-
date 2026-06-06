@@ -40,7 +40,7 @@ my skills and document everything here.
 |---|---|---|
 | SIEM Home Lab | Threat detection with Wazuh | [Live](https://github.com/ikennanworgu/siem-home-lab) |
 
-| Linux Hardening | CIS benchmark hardening script | In Progress |
+| Linux Hardening | CIS benchmark hardening script | [Live](https://github.com/ikennanworgu/linux-hardening) |
 
 | Wireshark Analysis | PCAP traffic analysis writeups | Planned |
 
